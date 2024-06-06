@@ -6,4 +6,4 @@ Python was used to implement a simple data assimilation technique, such as Optim
 This process generated analysis fields representing the best estimate of the atmospheric state.
 The analysis fields were then compared to the original observational data and the NWP model output.
 The data assimilation process led to improvements, which were quantified using statistical metrics such as root mean square error (RMSE) and bias.
-Additionally, a heat map was created to show the correlation of temperature between both the observed and model data.
+Additionally, a heat map was created to show the correlation of temperature between both the observed and model data
